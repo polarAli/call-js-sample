@@ -1,2 +1,50 @@
-# call-js-sample
-Kavenegar call js sample
+
+
+<div dir='rtl'>
+
+# نمونه کد JavaScript  تماس اینترنتی کاوه نگار
+
+
+## ساخت حساب کاربری
+
+
+اگر در سرویس کاوه نگار عضو نیستید میتوانید از لینک 
+[عضویت](http://panel.kavenegar.com/client/membership/register)
+ ثبت نام و اکانت آزمایشی برای تست سرویس تماس اینترنتی دریافت نمایید.
+
+
+ ## مستندات
+برای مشاهده مستندات به صفحه 
+[مستندات کیت توسعه اندروید](https://docs.kavenegar.io/js/setup.html)
+ مراجعه نمایید.
+
+## آموزش ها 
+
+- [آموزش راه اندازی سرویس تماس کاوه نگار در اندروید](https://docs.kavenegar.io/fa/quickstart/android.html)
+- [آموزش راه اندازی سرویس تماس کاوه نگار در iOS](https://docs.kavenegar.io/fa/quickstart/ios.html)
+- [آموزش راه اندازی سرویس تماس کاوه نگار در Web](https://docs.kavenegar.io/fa/quickstart/js.html)
+
+
+## نمونه کد
+
+- [نمونه کد iOS سرویس تماس اینترنتی کاوه نگار](https://github.com/kavenegar/call-ios-sample)
+- [نمونه کد Android سرویس تماس اینترنتی کاوه نگار](https://github.com/kavenegar/call-android-sample)
+- [نمونه کد بک اند NodeJS سرویس تماس اینترنتی کاوه نگار](https://github.com/kavenegar/call-backend-sample-node)
+
+
+## اطالاعات بیشتر
+
+
+برای مطالعه بیشتر به صفحه 
+[معرفی سرویس تماس اینترنتی  کاوه نگار](https://kavenegar.com/service/webcall)
+ مراجعه نمایید .
+
+اگر در استفاده از کیت های سرویس کاوه نگار مشکلی یا پیشنهادی داشتید ما را با یک Pull Request یا ارسال ایمیل به support@kavenegar.com خوشحال کنید.
+
+--- 
+
+![http://kavenegar.com](http://kavenegar.com/public/images/logo.png)		
+
+[http://kavenegar.com](http://kavenegar.com)	
+
+</div>
