@@ -1,0 +1,23 @@
+{
+  "name": "kavenegar-call-js-sample",
+  "version": "1.0.0",
+  "description": "<div dir='rtl'>",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "http-server -c-1 -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavenegar/call-js-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavenegar/call-js-sample/issues"
+  },
+  "homepage": "https://github.com/kavenegar/call-js-sample#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
