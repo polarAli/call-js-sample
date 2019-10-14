@@ -3,7 +3,7 @@ importScripts('https://www.gstatic.com/firebasejs/6.3.4/firebase-messaging.js');
 
 const firebaseConfig = {}; // Put Your Firebase Config Here
 
-let baseSampleURL = 'http://localhost:3000'; // Your sample running base url
+let baseSampleURL = 'http://localhost:8080'; // Your sample running base url
 
 firebase.initializeApp(firebaseConfig);
 
