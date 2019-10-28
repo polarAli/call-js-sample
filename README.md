@@ -22,7 +22,7 @@
 
 - [آموزش راه اندازی سرویس تماس کاوه نگار در اندروید](https://docs.kavenegar.io/fa/quickstart/android.html)
 - [آموزش راه اندازی سرویس تماس کاوه نگار در iOS](https://docs.kavenegar.io/fa/quickstart/ios.html)
-- [آموزش راه اندازی سرویس تماس کاوه نگار در Web](https://docs.kavenegar.io/fa/quickstart/js.html)
+- [آموزش راه اندازی سریع تماس کاوه نگار در JavaScript](https://docs.kavenegar.io/fa/quickstart/javascript.html)
 
 
 ## نمونه کد
