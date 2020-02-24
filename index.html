@@ -317,7 +317,7 @@
 
         getUserMedia(callback) {
             navigator.mediaDevices.getUserMedia({
-                video: true,
+                video: false,
                 audio: {noiseSuppression: true, echoCancellation: true}
             }).then((stream) => {
                 callback(stream);
