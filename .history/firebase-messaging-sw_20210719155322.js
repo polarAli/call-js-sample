@@ -10,7 +10,7 @@ const firebaseConfig = {
     appId: "1:1033998495695:web:7b47a914466032e384acba"
   };
 
-let baseSampleURL = 'https://call-test-kavenegar.herokuapp.com'; // Your sample running base url
+let baseSampleURL = 'https://call-test-kavenegar.herokuapp.com/'; // Your sample running base url
 
 firebase.initializeApp(firebaseConfig);
 

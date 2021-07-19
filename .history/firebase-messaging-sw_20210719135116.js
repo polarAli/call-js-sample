@@ -8,9 +8,9 @@ const firebaseConfig = {
     storageBucket: "test-2106d.appspot.com",
     messagingSenderId: "1033998495695",
     appId: "1:1033998495695:web:7b47a914466032e384acba"
-  };
+  }
 
-let baseSampleURL = 'https://call-test-kavenegar.herokuapp.com'; // Your sample running base url
+let baseSampleURL = 'http://localhost:8080'; // Your sample running base url
 
 firebase.initializeApp(firebaseConfig);
 
